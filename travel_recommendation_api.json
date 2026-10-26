@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=500",
+          "description": "A vibrant city known for its iconic Opera House and beautiful harbor."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=500",
+          "description": "A cultural hub famous for its art, alleys, and coffee culture."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592208-027041c2c99c?w=500",
+      "description": "An immense mausoleum of white marble, built in Agra by Mughal emperor Shah Jahan."
+    },
+    {
+      "id": 2,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1600803507119-9069d30dc2f5?w=500",
+      "description": "A stunning temple complex in Cambodia and the largest religious monument in the world."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=500",
+      "description": "A small South Pacific island known for its scuba diving and luxury over-water bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=500",
+      "description": "One of the most famous and beautiful beaches in the world, located in Rio de Janeiro."
+    }
+  ]
+}
